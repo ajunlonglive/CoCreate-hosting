@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.0.0...v1.0.1) (2021-05-08)
+
+
+### Bug Fixes
+
+* add css auto parse and save to docs. ([ad13499](https://github.com/CoCreate-app/CoCreate-hosting/commit/ad134997bc1280c665fc493346ac574088c2274f))
+
 # 1.0.0 (2021-05-03)
 
 
