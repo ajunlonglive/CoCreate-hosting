@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.0.1...v1.0.2) (2021-05-08)
+
+
+### Bug Fixes
+
+* create document_id and auto insert in config update workflow ([189e095](https://github.com/CoCreate-app/CoCreate-hosting/commit/189e095d100b6792ad704bd158f81a5aca592a8d))
+
 ## [1.0.1](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.0.0...v1.0.1) (2021-05-08)
 
 
