@@ -1,3 +1,10 @@
+# 1.0.0 (2021-05-03)
+
+
+### Features
+
+* Initial Release ([e24ac49](https://github.com/CoCreate-app/CoCreate-hosting/commit/e24ac491607355903ab618342959ef4ca5ab9bd4))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.0.2...v1.1.0) (2021-03-17)
 
 
