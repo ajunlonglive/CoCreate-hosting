@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.0...v1.1.1) (2021-05-10)
+
+
+### Bug Fixes
+
+* made public on npm ([5b07e92](https://github.com/CoCreate-app/CoCreate-hosting/commit/5b07e92b9a9806376359b9a8ce5794897421919a))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.0.2...v1.1.0) (2021-05-10)
 
 
