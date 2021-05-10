@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.0.2...v1.1.0) (2021-05-10)
+
+
+### Features
+
+* Initial Release ([7aeae58](https://github.com/CoCreate-app/CoCreate-hosting/commit/7aeae58b52e0b35965b8b8ba11c2ddf1d156bcd6))
+
 ## [1.0.2](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.0.1...v1.0.2) (2021-05-08)
 
 
