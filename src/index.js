@@ -20,6 +20,8 @@ else {
 
 const { crud, sources, config : socketConfig } = config;
 
+console.log(config)
+
 /** init cocreatecrud and socket **/
 let socket = new CoCreateSocket("ws");
 CoCreateCrud.setSocket(socket);
@@ -145,4 +147,4 @@ console.log('end....')
 
 setTimeout(function(){
 	process.exit()
-}, 1000 * 30)
+}, 1000 * 60)
