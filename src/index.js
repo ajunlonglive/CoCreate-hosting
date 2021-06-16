@@ -106,7 +106,7 @@ if (sources) {
 						if (!data) data = {};
 						let storeData = {
 							[key]: content,
-							...data
+							...data,
 						};
 						
 						response = await runStore({collection, document_id, data: storeData}, 'sources');
