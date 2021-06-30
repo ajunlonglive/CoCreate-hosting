@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.6...v1.1.7) (2021-06-30)
+
+
+### Bug Fixes
+
+* Update readme.md ([e6d4cec](https://github.com/CoCreate-app/CoCreate-hosting/commit/e6d4cecba8b77345fd87c586f682c1f1e1715c10))
+
 ## [1.1.6](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.5...v1.1.6) (2021-06-30)
 
 
