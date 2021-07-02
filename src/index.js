@@ -22,6 +22,8 @@ const { crud, sources, config : socketConfig } = config;
 
 console.log(config)
 
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
+
 /** init cocreatecrud and socket **/
 let socket = new CoCreateSocket("ws");
 CoCreateCrud.setSocket(socket);
@@ -110,7 +112,6 @@ if (sources) {
 						};
 						
 						response = await runStore({collection, document_id, data: storeData}, 'sources');
-						
 					}
 				} catch (err) {
 					console.log(err)
