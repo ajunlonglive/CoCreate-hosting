@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.7...v1.1.8) (2021-07-02)
+
+
+### Bug Fixes
+
+* to create new release ([40c93ad](https://github.com/CoCreate-app/CoCreate-hosting/commit/40c93adf9f05086334e986e863a1c2f43fae3d07))
+
 ## [1.1.7](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.6...v1.1.7) (2021-06-30)
 
 
