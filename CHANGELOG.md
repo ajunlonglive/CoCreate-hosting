@@ -1,3 +1,10 @@
+## [1.1.10](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.9...v1.1.10) (2021-07-10)
+
+
+### Bug Fixes
+
+* gitignore all logs ([d2df045](https://github.com/CoCreate-app/CoCreate-hosting/commit/d2df04534723b8aab52efe8d9069676f063007bf))
+
 ## [1.1.9](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.8...v1.1.9) (2021-07-07)
 
 
