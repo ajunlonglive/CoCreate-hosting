@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/hosting",
-  "version": "1.1.12",
+  "version": "1.1.13",
   "description": "A simple hosting component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "hosting",

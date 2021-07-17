@@ -1,3 +1,10 @@
+## [1.1.13](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.12...v1.1.13) (2021-07-17)
+
+
+### Bug Fixes
+
+* workflows ([e5991c6](https://github.com/CoCreate-app/CoCreate-hosting/commit/e5991c6c0bced6a4622a6e87e1e6baafd9030777))
+
 ## [1.1.12](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.11...v1.1.12) (2021-07-14)
 
 
