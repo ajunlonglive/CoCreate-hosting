@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.13...v1.2.0) (2021-07-28)
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([95c4a11](https://github.com/CoCreate-app/CoCreate-hosting/commit/95c4a119cc9af761d4f4ffd1a04b3901e1fd773b))
+
 ## [1.1.13](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.1.12...v1.1.13) (2021-07-17)
 
 
