@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.3...v1.2.4) (2021-08-22)
+
+
+### Bug Fixes
+
+* bump package versions ([8500256](https://github.com/CoCreate-app/CoCreate-hosting/commit/850025665fafeb6f3b8aae5b71521dd0969867de))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.2...v1.2.3) (2021-08-22)
 
 
