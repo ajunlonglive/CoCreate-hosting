@@ -1,3 +1,10 @@
+## [1.2.11](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.10...v1.2.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* remove cdn from workflow ([09fc17c](https://github.com/CoCreate-app/CoCreate-hosting/commit/09fc17cb6c5f1a9bc135cc51146a71b949fd26b4))
+
 ## [1.2.10](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.9...v1.2.10) (2021-09-09)
 
 
