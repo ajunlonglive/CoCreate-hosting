@@ -1,3 +1,10 @@
+## [1.2.15](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.14...v1.2.15) (2021-09-09)
+
+
+### Bug Fixes
+
+* create docker image to use for workflows ([bd6aedf](https://github.com/CoCreate-app/CoCreate-hosting/commit/bd6aedfb1142231fc41d852584618f8a830f1379))
+
 ## [1.2.14](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.13...v1.2.14) (2021-09-09)
 
 
