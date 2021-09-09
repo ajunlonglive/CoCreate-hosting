@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.9...v1.2.10) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([0786b54](https://github.com/CoCreate-app/CoCreate-hosting/commit/0786b54148d7e36d931d9d4bf80a620c0cb2fafd))
+
 ## [1.2.9](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.8...v1.2.9) (2021-09-08)
 
 
