@@ -1,3 +1,11 @@
+## [1.2.25](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.24...v1.2.25) (2021-10-05)
+
+
+### Bug Fixes
+
+* update dependencies ([e3e6c7d](https://github.com/CoCreate-app/CoCreate-hosting/commit/e3e6c7d2f9aacfdb71bb90be08e5640cc8cd71ff))
+* website_id in CoCreate.config ([1a03250](https://github.com/CoCreate-app/CoCreate-hosting/commit/1a03250117c3975532fd265765ef7a30164790fd))
+
 ## [1.2.24](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.23...v1.2.24) (2021-10-04)
 
 
