@@ -1,3 +1,11 @@
+## [1.2.30](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.29...v1.2.30) (2021-10-15)
+
+
+### Bug Fixes
+
+* update packages ([6afe781](https://github.com/CoCreate-app/CoCreate-hosting/commit/6afe78179f3ac114e69b5d4f8aeae8ccead7a348))
+* updated dependencies ([adb99e2](https://github.com/CoCreate-app/CoCreate-hosting/commit/adb99e20bd230123098239be97cab84cbbeae11e))
+
 ## [1.2.29](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.28...v1.2.29) (2021-10-13)
 
 
