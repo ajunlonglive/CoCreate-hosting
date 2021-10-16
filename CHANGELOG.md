@@ -1,3 +1,10 @@
+## [1.2.35](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.34...v1.2.35) (2021-10-16)
+
+
+### Bug Fixes
+
+* updated socket and crud  dependency ([79a111d](https://github.com/CoCreate-app/CoCreate-hosting/commit/79a111d98a4ba1a2f8f251f0ded350088e1c77dd))
+
 ## [1.2.34](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.33...v1.2.34) (2021-10-16)
 
 
