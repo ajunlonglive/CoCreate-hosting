@@ -1,3 +1,10 @@
+## [1.2.33](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.32...v1.2.33) (2021-10-16)
+
+
+### Bug Fixes
+
+* update crud-client ([df4cee6](https://github.com/CoCreate-app/CoCreate-hosting/commit/df4cee602010bc6223a93f178cd97ed1f2b1f18e))
+
 ## [1.2.32](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.31...v1.2.32) (2021-10-15)
 
 
