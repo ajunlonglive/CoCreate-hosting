@@ -1,3 +1,10 @@
+## [1.2.48](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.47...v1.2.48) (2021-11-19)
+
+
+### Bug Fixes
+
+* update dependencies ([1c1b646](https://github.com/CoCreate-app/CoCreate-hosting/commit/1c1b6465625c308c1df18f22961e4563aa3956fa))
+
 ## [1.2.47](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.46...v1.2.47) (2021-11-18)
 
 
