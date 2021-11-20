@@ -1,3 +1,10 @@
+## [1.2.50](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.49...v1.2.50) (2021-11-20)
+
+
+### Bug Fixes
+
+* updated script tags and link tags ([1ba019b](https://github.com/CoCreate-app/CoCreate-hosting/commit/1ba019bbf8ee7465518009024c50c5888eddfe0f))
+
 ## [1.2.49](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.48...v1.2.49) (2021-11-20)
 
 
