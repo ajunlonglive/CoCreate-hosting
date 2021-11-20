@@ -1,3 +1,10 @@
+## [1.2.51](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.50...v1.2.51) (2021-11-20)
+
+
+### Bug Fixes
+
+* remove cdn.CoCreate.min.css ([f7b26ce](https://github.com/CoCreate-app/CoCreate-hosting/commit/f7b26cef9fc4773b39af7576c09beafc697dbafc))
+
 ## [1.2.50](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.49...v1.2.50) (2021-11-20)
 
 
