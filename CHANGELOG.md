@@ -1,3 +1,10 @@
+## [1.2.54](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.53...v1.2.54) (2021-11-26)
+
+
+### Bug Fixes
+
+* add nav and sidenav to docs ([9f455fa](https://github.com/CoCreate-app/CoCreate-hosting/commit/9f455fa90722fda8795a0d8ce28681413fa7c49c))
+
 ## [1.2.53](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.52...v1.2.53) (2021-11-26)
 
 
