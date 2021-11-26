@@ -61,9 +61,9 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/crud-client": "^1.4.33",
-    "@cocreate/docs": "^1.2.55",
-    "@cocreate/socket-client": "^1.4.9",
+    "@cocreate/crud-client": "^1.4.34",
+    "@cocreate/docs": "^1.2.56",
+    "@cocreate/socket-client": "^1.4.10",
     "mime-types": "^2.1.30"
   }
 }
