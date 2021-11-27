@@ -1,3 +1,10 @@
+## [1.2.55](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.54...v1.2.55) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([a3edfec](https://github.com/CoCreate-app/CoCreate-hosting/commit/a3edfec87e9d41d15e333d7f20038a12575e20e6))
+
 ## [1.2.54](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.53...v1.2.54) (2021-11-26)
 
 
