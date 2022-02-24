@@ -1,3 +1,10 @@
+## [1.2.66](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.65...v1.2.66) (2022-02-24)
+
+
+### Bug Fixes
+
+* CoCreate.config replace CoCreate.app with * ([e1e55d8](https://github.com/CoCreate-app/CoCreate-hosting/commit/e1e55d855dab8159c1c9ae09c8e14178f2991525))
+
 ## [1.2.65](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.64...v1.2.65) (2022-02-16)
 
 
