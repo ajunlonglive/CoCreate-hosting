@@ -1,3 +1,10 @@
+## [1.2.67](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.66...v1.2.67) (2022-02-27)
+
+
+### Bug Fixes
+
+* update param  module to component ([5f7d1a1](https://github.com/CoCreate-app/CoCreate-hosting/commit/5f7d1a15bd19734a7012242da1f435e75de6cd01))
+
 ## [1.2.66](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.65...v1.2.66) (2022-02-24)
 
 
