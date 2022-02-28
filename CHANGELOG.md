@@ -1,3 +1,10 @@
+## [1.2.69](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.68...v1.2.69) (2022-02-28)
+
+
+### Bug Fixes
+
+* config docs wildcard * domain ([783d9e6](https://github.com/CoCreate-app/CoCreate-hosting/commit/783d9e6adefc312914db190ad8f46a543291ddba))
+
 ## [1.2.68](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.67...v1.2.68) (2022-02-28)
 
 
