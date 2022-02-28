@@ -1,3 +1,10 @@
+## [1.2.68](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.67...v1.2.68) (2022-02-28)
+
+
+### Bug Fixes
+
+* bump cdn version ([7046ef9](https://github.com/CoCreate-app/CoCreate-hosting/commit/7046ef9e38803dbe0089e6b238cf1575dbb5edda))
+
 ## [1.2.67](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.66...v1.2.67) (2022-02-27)
 
 
