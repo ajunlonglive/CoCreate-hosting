@@ -7,21 +7,18 @@ const path = require('path');
 let config;
 
 let jsConfig = path.resolve(process.cwd(), 'CoCreate.config.js');
-// let jsonConfig = path.resolve(process.cwd(), 'CoCreate.config.json')
 if (fs.existsSync(jsConfig))
 	config = require(jsConfig);
-// else if (fs.existsSync(jsonConfig)) {
-// 	config = require(jsonConfig)
-// }
 else {
-	process.exit()
 	console.log('config not found.')
+	process.exit()
 }
 
 const { crud, sources, config : socketConfig } = config;
 
 // console.log(config)
 
+// ToDo throwing error
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 
 /** init cocreatecrud and socket **/
@@ -32,7 +29,6 @@ socket.create({
 	room: null,
 	host: socketConfig.host
 })
-
 const commonParam = {
 	apiKey : socketConfig.apiKey,
 	organization_id : socketConfig.organization_Id,
