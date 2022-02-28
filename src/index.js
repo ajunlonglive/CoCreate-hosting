@@ -16,8 +16,6 @@ else {
 
 const { crud, sources, config : socketConfig } = config;
 
-// console.log(config)
-
 // ToDo throwing error
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 
