@@ -1,3 +1,10 @@
+## [1.2.70](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.69...v1.2.70) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([e688ca7](https://github.com/CoCreate-app/CoCreate-hosting/commit/e688ca7fea9c77643d6276401eb63b72dd40f708))
+
 ## [1.2.69](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.2.68...v1.2.69) (2022-02-28)
 
 
