@@ -1,3 +1,11 @@
+## [1.3.3](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.2...v1.3.3) (2022-06-12)
+
+
+### Bug Fixes
+
+* update dependencies ([279ae54](https://github.com/CoCreate-app/CoCreate-hosting/commit/279ae54228185ac0a5f559de1d6c41fd28c110b1))
+* update docs css document_id ([485779d](https://github.com/CoCreate-app/CoCreate-hosting/commit/485779d1ed922189dfe6b79a8e33634144194dd2))
+
 ## [1.3.2](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.1...v1.3.2) (2022-05-23)
 
 
