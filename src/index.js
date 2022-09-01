@@ -45,7 +45,7 @@ async function runStore (info, type) {
 			response = await  CoCreateCrud.updateDocument({
 				...commonParam,
 				...info,
-				upsert: true,
+				upsert: true
 			})
 		}
 		if (response) {
@@ -129,7 +129,6 @@ if (sources) {
 		write_str = "module.exports = " + write_str;
 
 		fs.writeFileSync(jsConfig, write_str);
-		// fs.writeFileSync(jsonConfig, write_str);
 
 	})
 }
