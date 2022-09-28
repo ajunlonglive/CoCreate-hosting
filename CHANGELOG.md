@@ -1,3 +1,11 @@
+## [1.3.6](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.5...v1.3.6) (2022-09-28)
+
+
+### Bug Fixes
+
+* bump dependencies ([0a1c1f7](https://github.com/CoCreate-app/CoCreate-hosting/commit/0a1c1f7846e1bc901031da39e2d94e7927c991d3))
+* crud.socket connection refactored ([604907b](https://github.com/CoCreate-app/CoCreate-hosting/commit/604907ba0eafd86102f89ce5de2f66490ad8de61))
+
 ## [1.3.5](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.4...v1.3.5) (2022-09-01)
 
 
