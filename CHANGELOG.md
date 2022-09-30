@@ -1,3 +1,10 @@
+## [1.3.8](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.7...v1.3.8) (2022-09-30)
+
+
+### Bug Fixes
+
+* bump dependencies ([abb9063](https://github.com/CoCreate-app/CoCreate-hosting/commit/abb9063f53b800552596c341cfb4603c16ce7258))
+
 ## [1.3.7](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.6...v1.3.7) (2022-09-29)
 
 
