@@ -27,6 +27,7 @@ CoCreateCrud.socket.create({
 const commonParam = {
 	apiKey: socketConfig.apiKey,
 	organization_id: socketConfig.organization_id,
+	host: socketConfig.host,
 	broadcast: false
 }
 
@@ -46,8 +47,6 @@ async function runStore (info, type) {
 			})
 		}
 		if (response) {
-			console.log('type ------------------------- ', type)
-			console.log(response)
 			return response;
 		}
 	} catch (err) {
@@ -114,8 +113,6 @@ if (sources) {
 	}
 	
 	runSources().then((data) => {
-		
-		console.log(data)
 		let new_config = {
 			config: socketConfig,
 			sources: new_sources_list,
@@ -130,7 +127,6 @@ if (sources) {
 	})
 }
 
-console.log('end....')
 
 setTimeout(function(){
 	process.exit()
