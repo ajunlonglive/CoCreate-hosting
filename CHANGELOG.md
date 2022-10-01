@@ -1,3 +1,11 @@
+## [1.3.13](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.12...v1.3.13) (2022-10-01)
+
+
+### Bug Fixes
+
+* add host to common params ([31306d3](https://github.com/CoCreate-app/CoCreate-hosting/commit/31306d365ef401a5c9d0a4cc53f9f7898c782fbb))
+* bump [@cocreate](https://github.com/cocreate) dependencies ([686524d](https://github.com/CoCreate-app/CoCreate-hosting/commit/686524d790907ccdf1a6a04d3bc4b188d1a0aac8))
+
 ## [1.3.12](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.11...v1.3.12) (2022-09-30)
 
 
