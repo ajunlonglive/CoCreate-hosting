@@ -123,11 +123,10 @@ if (sources) {
 		write_str = "module.exports = " + write_str;
 
 		fs.writeFileSync(jsConfig, write_str);
-
+		setTimeout(function(){
+			process.exit()
+		}, 2000)		
 	})
 }
 
 
-setTimeout(function(){
-	process.exit()
-}, 1000 * 60)
