@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.4.1...v1.4.2) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump dependencies ([fbbadbb](https://github.com/CoCreate-app/CoCreate-hosting/commit/fbbadbb14edae4ec6ec8343ff19a3db71c88c53d))
+
 ## [1.4.1](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.4.0...v1.4.1) (2022-10-02)
 
 
