@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.16...v1.4.0) (2022-10-02)
+
+
+### Features
+
+* process.exit after writeFileSync ([ac29dcf](https://github.com/CoCreate-app/CoCreate-hosting/commit/ac29dcf04208636dc815a0a17466a009b751c5ad))
+
 ## [1.3.16](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.15...v1.3.16) (2022-10-01)
 
 
