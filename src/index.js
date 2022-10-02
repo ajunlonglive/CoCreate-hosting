@@ -15,7 +15,7 @@ else {
 
 const { crud, sources, config : socketConfig } = config;
 
-// ToDo throwing error
+// ToDo: throwing error
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 
 CoCreateCrud.socket.create({
