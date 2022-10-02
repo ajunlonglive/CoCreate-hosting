@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.4.0...v1.4.1) (2022-10-02)
+
+
+### Bug Fixes
+
+* minor bug fixes ([08da0a4](https://github.com/CoCreate-app/CoCreate-hosting/commit/08da0a40e34900e23f60f872bc5462215b6224b2))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-hosting/compare/v1.3.16...v1.4.0) (2022-10-02)
 
 
